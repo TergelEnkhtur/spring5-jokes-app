@@ -1,8 +1,7 @@
 <!-- PROJECT -->
 <br />
 <p align="center">
-    </a>
-    <h3 align="center">Chuck Norris Jokes App</h3>
+    <h3 align="center">Spring 5 Jokes App</h3>
     <p align="center">
         By Tergel Enkhtur
     </p>
