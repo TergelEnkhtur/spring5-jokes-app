@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"> <!-- tag th is going to reference the Thymeleaf Namespace -->
+<head>
+    <meta charset="UTF-8">
+    <title>Chuck Norris Jokes</title>
+</head>
+<body>
+    <h1>Chuck Norris Jokes</h1>
+    <p>It is random each time you hit refresh!</p>
+    <p th:text="${joke}">Show Joke here...</p>
+</body>
+</html>
